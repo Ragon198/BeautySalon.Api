@@ -1,0 +1,17 @@
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/bin/Debug/net6.0/BeautySalon.Data.deps.json
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/bin/Debug/net6.0/BeautySalon.Data.dll
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/bin/Debug/net6.0/ref/BeautySalon.Data.dll
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/bin/Debug/net6.0/BeautySalon.Data.pdb
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/bin/Debug/net6.0/BeautySalon.ContractEntity.dll
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/bin/Debug/net6.0/BeautySalon.Model.dll
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/bin/Debug/net6.0/BeautySalon.Model.pdb
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/bin/Debug/net6.0/BeautySalon.ContractEntity.pdb
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/obj/Debug/net6.0/BeautySalon.Data.csproj.AssemblyReference.cache
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/obj/Debug/net6.0/BeautySalon.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/obj/Debug/net6.0/BeautySalon.Data.AssemblyInfoInputs.cache
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/obj/Debug/net6.0/BeautySalon.Data.AssemblyInfo.cs
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/obj/Debug/net6.0/BeautySalon.Data.csproj.CoreCompileInputs.cache
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/obj/Debug/net6.0/BeautySalon.Data.csproj.CopyComplete
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/obj/Debug/net6.0/BeautySalon.Data.dll
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/obj/Debug/net6.0/ref/BeautySalon.Data.dll
+/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/obj/Debug/net6.0/BeautySalon.Data.pdb

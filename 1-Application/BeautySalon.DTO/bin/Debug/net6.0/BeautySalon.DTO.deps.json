@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BeautySalon.DTO/1.0.0": {
+        "dependencies": {
+          "BeautySalon.Model": "1.0.0",
+          "BeautySalon.Service": "1.0.0"
+        },
+        "runtime": {
+          "BeautySalon.DTO.dll": {}
+        }
+      },
+      "BeautySalon.ContractEntity/1.0.0": {
+        "runtime": {
+          "BeautySalon.ContractEntity.dll": {}
+        }
+      },
+      "BeautySalon.Model/1.0.0": {
+        "dependencies": {
+          "BeautySalon.ContractEntity": "1.0.0"
+        },
+        "runtime": {
+          "BeautySalon.Model.dll": {}
+        }
+      },
+      "BeautySalon.Service/1.0.0": {
+        "runtime": {
+          "BeautySalon.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BeautySalon.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeautySalon.ContractEntity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeautySalon.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeautySalon.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

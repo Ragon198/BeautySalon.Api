@@ -1,0 +1,15 @@
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/bin/Debug/net6.0/BeautySalon.Model.deps.json
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/bin/Debug/net6.0/BeautySalon.Model.dll
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/bin/Debug/net6.0/ref/BeautySalon.Model.dll
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/bin/Debug/net6.0/BeautySalon.Model.pdb
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/bin/Debug/net6.0/BeautySalon.ContractEntity.dll
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/bin/Debug/net6.0/BeautySalon.ContractEntity.pdb
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/obj/Debug/net6.0/BeautySalon.Model.csproj.AssemblyReference.cache
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/obj/Debug/net6.0/BeautySalon.Model.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/obj/Debug/net6.0/BeautySalon.Model.AssemblyInfoInputs.cache
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/obj/Debug/net6.0/BeautySalon.Model.AssemblyInfo.cs
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/obj/Debug/net6.0/BeautySalon.Model.csproj.CoreCompileInputs.cache
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/obj/Debug/net6.0/BeautySalon.Model.csproj.CopyComplete
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/obj/Debug/net6.0/BeautySalon.Model.dll
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/obj/Debug/net6.0/ref/BeautySalon.Model.dll
+/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/obj/Debug/net6.0/BeautySalon.Model.pdb
