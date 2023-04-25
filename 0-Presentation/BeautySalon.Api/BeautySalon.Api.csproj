@@ -11,8 +11,14 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.0"/>
     <PackageReference Include="Microsoft.AspNet.Identity.Core" Version="2.2.3"/>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.0"/>
+    <PackageReference Include="FluentResults" Version="3.8.0"/>
+    <PackageReference Include="FluentResults.Extensions.FluentAssertions" Version="1.1.0"/>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\2-Domain\Entities\BeautySalon.Model\BeautySalon.Model.csproj"/>
+    <ProjectReference Include="..\..\1-Application\BeautySalon.DTO\BeautySalon.DTO.csproj"/>
+    <ProjectReference Include="..\..\2-Domain\Contract\BeautySalon.ContractService\BeautySalon.ContractService.csproj"/>
+    <ProjectReference Include="..\..\3-Infraestructure\BeautySalon.Data\BeautySalon.Data.csproj"/>
+    <ProjectReference Include="..\..\2-Domain\Services\BeautySalon.Service\BeautySalon.Service.csproj"/>
   </ItemGroup>
 </Project>

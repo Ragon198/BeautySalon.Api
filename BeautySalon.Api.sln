@@ -29,6 +29,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contract", "Contract", "{83
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautySalon.ContractEntity", "2-Domain\Contract\BeautySalon.ContractEntity\BeautySalon.ContractEntity.csproj", "{8B2D77D7-B5A6-4836-9846-D34A1527182C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautySalon.ContractService", "2-Domain\Contract\BeautySalon.ContractService\BeautySalon.ContractService.csproj", "{B4C42C67-02F7-4591-905B-DA38EB4E0AEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{8B2D77D7-B5A6-4836-9846-D34A1527182C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B2D77D7-B5A6-4836-9846-D34A1527182C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B2D77D7-B5A6-4836-9846-D34A1527182C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C42C67-02F7-4591-905B-DA38EB4E0AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C42C67-02F7-4591-905B-DA38EB4E0AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C42C67-02F7-4591-905B-DA38EB4E0AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C42C67-02F7-4591-905B-DA38EB4E0AEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0BC17912-F29A-4505-9E67-22D4D2911342} = {31A94712-F269-46D7-9E38-1F81006E9BBB}
@@ -73,5 +79,6 @@ Global
 		{259C142B-2AA0-47DF-9428-D232F29EBEF1} = {65E3118D-E52E-43B7-93D0-2A5214A2B14B}
 		{83D0EE9F-5EEB-470B-AE0F-50B1F5F76E6A} = {1228D8CE-5204-497D-9F0B-8FCFACC946F0}
 		{8B2D77D7-B5A6-4836-9846-D34A1527182C} = {83D0EE9F-5EEB-470B-AE0F-50B1F5F76E6A}
+		{B4C42C67-02F7-4591-905B-DA38EB4E0AEB} = {83D0EE9F-5EEB-470B-AE0F-50B1F5F76E6A}
 	EndGlobalSection
 EndGlobal

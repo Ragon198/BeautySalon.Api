@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0oymysj9cniGNoGXEcu8F5qKMwEKyNyT39q3vU/EGkbKWP0pPPUowv5s/72R5LzwZpvh6yJ8f+4r9gs1/KlY8g==",
+  "dgSpecHash": "AJaUj6UTeBvjtaqPEh0qZkJPxePw+xqE6etoUK7Zjm/JVSLhSk73EYhQ1dlxQCiH656vAmLFrlIPHzvirw6t0Q==",
   "success": true,
   "projectFilePath": "/home/rafael/Projetos/BeautySalon.Api/0-Presentation/BeautySalon.Api/BeautySalon.Api.csproj",
   "expectedPackageFiles": [
+    "/home/rafael/.nuget/packages/fluentassertions/6.2.0/fluentassertions.6.2.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/fluentresults/3.8.0/fluentresults.3.8.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/fluentresults.extensions.fluentassertions/1.1.0/fluentresults.extensions.fluentassertions.1.1.0.nupkg.sha512",
     "/home/rafael/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/rafael/.nuget/packages/microsoft.aspnet.identity.core/2.2.3/microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
     "/home/rafael/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.0/microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
@@ -28,7 +31,7 @@
     "/home/rafael/.nuget/packages/microsoft.extensions.identity.core/6.0.0/microsoft.extensions.identity.core.6.0.0.nupkg.sha512",
     "/home/rafael/.nuget/packages/microsoft.extensions.identity.stores/6.0.0/microsoft.extensions.identity.stores.6.0.0.nupkg.sha512",
     "/home/rafael/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "/home/rafael/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "/home/rafael/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/home/rafael/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "/home/rafael/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
@@ -42,10 +45,12 @@
     "/home/rafael/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "/home/rafael/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "/home/rafael/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
     "/home/rafael/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "/home/rafael/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
     "/home/rafael/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "/home/rafael/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "/home/rafael/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
   ],
   "logs": [
     {

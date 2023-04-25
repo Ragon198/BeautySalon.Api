@@ -26,8 +26,20 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/BeautySalon.DTO.csproj": {
+                "projectPath": "/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/BeautySalon.DTO.csproj"
+              },
+              "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Contract/BeautySalon.ContractService/BeautySalon.ContractService.csproj": {
+                "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Contract/BeautySalon.ContractService/BeautySalon.ContractService.csproj"
+              },
               "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj": {
                 "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj"
+              },
+              "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Services/BeautySalon.Service/BeautySalon.Service.csproj": {
+                "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Services/BeautySalon.Service/BeautySalon.Service.csproj"
+              },
+              "/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/BeautySalon.Data.csproj": {
+                "projectPath": "/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/BeautySalon.Data.csproj"
               }
             }
           }
@@ -42,6 +54,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentResults": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "FluentResults.Extensions.FluentAssertions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Microsoft.AspNet.Identity.Core": {
               "target": "Package",
               "version": "[2.2.3, )"
@@ -89,6 +109,65 @@
         }
       }
     },
+    "/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/BeautySalon.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/BeautySalon.DTO.csproj",
+        "projectName": "BeautySalon.DTO",
+        "projectPath": "/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/BeautySalon.DTO.csproj",
+        "packagesPath": "/home/rafael/.nuget/packages/",
+        "outputPath": "/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rafael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj": {
+                "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj"
+              },
+              "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Services/BeautySalon.Service/BeautySalon.Service.csproj": {
+                "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Services/BeautySalon.Service/BeautySalon.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Contract/BeautySalon.ContractEntity/BeautySalon.ContractEntity.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -111,6 +190,65 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Contract/BeautySalon.ContractService/BeautySalon.ContractService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Contract/BeautySalon.ContractService/BeautySalon.ContractService.csproj",
+        "projectName": "BeautySalon.ContractService",
+        "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Contract/BeautySalon.ContractService/BeautySalon.ContractService.csproj",
+        "packagesPath": "/home/rafael/.nuget/packages/",
+        "outputPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Contract/BeautySalon.ContractService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rafael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/BeautySalon.DTO.csproj": {
+                "projectPath": "/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/BeautySalon.DTO.csproj"
+              },
+              "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj": {
+                "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -196,6 +334,114 @@
               "version": "[6.0.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Services/BeautySalon.Service/BeautySalon.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Services/BeautySalon.Service/BeautySalon.Service.csproj",
+        "projectName": "BeautySalon.Service",
+        "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Services/BeautySalon.Service/BeautySalon.Service.csproj",
+        "packagesPath": "/home/rafael/.nuget/packages/",
+        "outputPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Services/BeautySalon.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rafael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/BeautySalon.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/BeautySalon.Data.csproj",
+        "projectName": "BeautySalon.Data",
+        "projectPath": "/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/BeautySalon.Data.csproj",
+        "packagesPath": "/home/rafael/.nuget/packages/",
+        "outputPath": "/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rafael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj": {
+                "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
