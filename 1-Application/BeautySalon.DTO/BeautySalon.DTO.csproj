@@ -1,7 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
-    <ProjectReference Include="..\..\2-Domain\Entities\BeautySalon.Model\BeautySalon.Model.csproj" />
-    <ProjectReference Include="..\..\2-Domain\Services\BeautySalon.Service\BeautySalon.Service.csproj" />
+    <ProjectReference Include="..\..\2-Domain\Contract\BeautySalon.ContractEntity\BeautySalon.ContractEntity.csproj" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>

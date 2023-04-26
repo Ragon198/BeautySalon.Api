@@ -8,6 +8,8 @@ public class User : IdentityUser<long>
 
     public string Name { get; set; }
 
+    public string Pin { get; set; }
+
     public string Profile { get; set; }
 
     public bool Active { get; set; }

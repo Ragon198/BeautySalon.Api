@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\2-Domain\Contracts\BeautySalon.ContractAppService\BeautySalon.ContractAppService.csproj" />
+    <ProjectReference Include="..\..\2-Domain\Contract\BeautySalon.ContractService\BeautySalon.ContractService.csproj" />
+    <ProjectReference Include="..\..\2-Domain\Services\BeautySalon.Service\BeautySalon.Service.csproj" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>

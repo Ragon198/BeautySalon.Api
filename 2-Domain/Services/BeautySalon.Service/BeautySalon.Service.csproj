@@ -1,4 +1,19 @@
 <Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\Contract\BeautySalon.ContractService\BeautySalon.ContractService.csproj"/>
+    <ProjectReference Include="..\..\..\3-Infraestructure\BeautySalon.Data\BeautySalon.Data.csproj"/>
+    <ProjectReference Include="..\..\..\1-Application\BeautySalon.DTO\BeautySalon.DTO.csproj"/>
+    <ProjectReference Include="..\..\Entities\BeautySalon.Model\BeautySalon.Model.csproj"/>
+    <ProjectReference Include="..\..\..\3-Infraestructure\BeautySalon.Crosscutting\BeautySalon.Crosscutting.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Identity.Core" Version="2.2.3"/>
+    <PackageReference Include="FluentValidation" Version="10.4.0"/>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.0"/>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.0"/>
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="6.0.0"/>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.29.0"/>
+  </ItemGroup>
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "BeautySalon.Data/1.0.0": {
         "dependencies": {
-          "BeautySalon.Model": "1.0.0"
+          "BeautySalon.ContractService": "1.0.0"
         },
         "runtime": {
           "BeautySalon.Data.dll": {}
@@ -175,6 +175,23 @@
       "BeautySalon.ContractEntity/1.0.0": {
         "runtime": {
           "BeautySalon.ContractEntity.dll": {}
+        }
+      },
+      "BeautySalon.ContractService/1.0.0": {
+        "dependencies": {
+          "BeautySalon.DTO": "1.0.0",
+          "BeautySalon.Model": "1.0.0"
+        },
+        "runtime": {
+          "BeautySalon.ContractService.dll": {}
+        }
+      },
+      "BeautySalon.DTO/1.0.0": {
+        "dependencies": {
+          "BeautySalon.ContractEntity": "1.0.0"
+        },
+        "runtime": {
+          "BeautySalon.DTO.dll": {}
         }
       },
       "BeautySalon.Model/1.0.0": {
@@ -373,6 +390,16 @@
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "BeautySalon.ContractEntity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeautySalon.ContractService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeautySalon.DTO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

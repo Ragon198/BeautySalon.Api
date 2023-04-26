@@ -353,6 +353,33 @@
           "bin/placeholder/BeautySalon.ContractEntity.dll": {}
         }
       },
+      "BeautySalon.ContractService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BeautySalon.DTO": "1.0.0",
+          "BeautySalon.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BeautySalon.ContractService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BeautySalon.ContractService.dll": {}
+        }
+      },
+      "BeautySalon.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BeautySalon.ContractEntity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BeautySalon.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BeautySalon.DTO.dll": {}
+        }
+      },
       "BeautySalon.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1001,6 +1028,16 @@
       "path": "../../2-Domain/Contract/BeautySalon.ContractEntity/BeautySalon.ContractEntity.csproj",
       "msbuildProject": "../../2-Domain/Contract/BeautySalon.ContractEntity/BeautySalon.ContractEntity.csproj"
     },
+    "BeautySalon.ContractService/1.0.0": {
+      "type": "project",
+      "path": "../../2-Domain/Contract/BeautySalon.ContractService/BeautySalon.ContractService.csproj",
+      "msbuildProject": "../../2-Domain/Contract/BeautySalon.ContractService/BeautySalon.ContractService.csproj"
+    },
+    "BeautySalon.DTO/1.0.0": {
+      "type": "project",
+      "path": "../../1-Application/BeautySalon.DTO/BeautySalon.DTO.csproj",
+      "msbuildProject": "../../1-Application/BeautySalon.DTO/BeautySalon.DTO.csproj"
+    },
     "BeautySalon.Model/1.0.0": {
       "type": "project",
       "path": "../../2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj",
@@ -1009,7 +1046,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "BeautySalon.Model >= 1.0.0"
+      "BeautySalon.ContractService >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1037,8 +1074,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj": {
-              "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Entities/BeautySalon.Model/BeautySalon.Model.csproj"
+            "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Contract/BeautySalon.ContractService/BeautySalon.ContractService.csproj": {
+              "projectPath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Contract/BeautySalon.ContractService/BeautySalon.ContractService.csproj"
             }
           }
         }

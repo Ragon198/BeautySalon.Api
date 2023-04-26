@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vz/gXgSdN2BvF362LZa20Q4EK7PSxvzpgsZa7CtEYiAW1rw4rx1BL9U5lU/n/EhNI3QYnfXXDnLwaTEG8PhSZg==",
+  "dgSpecHash": "fH8Pw6GCFporD7bUZufJTAMSmC/i+KaroPcY4p7KIKwOSQqQHFntcz2sKoH4N+GZ1c49mH3R7TxtfayQkU1vwQ==",
   "success": true,
   "projectFilePath": "/home/rafael/Projetos/BeautySalon.Api/3-Infraestructure/BeautySalon.Data/BeautySalon.Data.csproj",
   "expectedPackageFiles": [

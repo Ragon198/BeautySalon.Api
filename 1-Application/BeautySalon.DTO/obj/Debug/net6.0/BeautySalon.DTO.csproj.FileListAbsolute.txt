@@ -3,10 +3,6 @@
 /home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/bin/Debug/net6.0/ref/BeautySalon.DTO.dll
 /home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/bin/Debug/net6.0/BeautySalon.DTO.pdb
 /home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/bin/Debug/net6.0/BeautySalon.ContractEntity.dll
-/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/bin/Debug/net6.0/BeautySalon.Model.dll
-/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/bin/Debug/net6.0/BeautySalon.Service.dll
-/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/bin/Debug/net6.0/BeautySalon.Model.pdb
-/home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/bin/Debug/net6.0/BeautySalon.Service.pdb
 /home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/bin/Debug/net6.0/BeautySalon.ContractEntity.pdb
 /home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/obj/Debug/net6.0/BeautySalon.DTO.csproj.AssemblyReference.cache
 /home/rafael/Projetos/BeautySalon.Api/1-Application/BeautySalon.DTO/obj/Debug/net6.0/BeautySalon.DTO.GeneratedMSBuildEditorConfig.editorconfig

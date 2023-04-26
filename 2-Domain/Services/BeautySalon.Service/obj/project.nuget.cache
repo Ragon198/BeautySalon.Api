@@ -1,8 +1,59 @@
 {
   "version": 2,
-  "dgSpecHash": "buYvgPUcoSPVuERul6PX1koLtPjnUakX9ExGSZsG15VF/23T7TuaersJGQ6ZxmImcJhb0aHZpd2PqzRlO9DmVg==",
+  "dgSpecHash": "m+I97gR47bi7aqkniDD6N0Re2cjaJ/n6xmMYsvewlFO/Qu5bl6JkFpoYvvJMxMyUzUwhTGGv0bFGdhh6/XY2SQ==",
   "success": true,
   "projectFilePath": "/home/rafael/Projetos/BeautySalon.Api/2-Domain/Services/BeautySalon.Service/BeautySalon.Service.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "/home/rafael/.nuget/packages/fluentvalidation/10.4.0/fluentvalidation.10.4.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.aspnet.identity.core/2.2.3/microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.0/microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.0/microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/6.0.0/microsoft.aspnetcore.identity.entityframeworkcore.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.0/microsoft.aspnetcore.identity.ui.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.entityframeworkcore/6.0.0/microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.0/microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.0/microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.0/microsoft.entityframeworkcore.relational.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.caching.memory/6.0.0/microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.fileproviders.embedded/6.0.0/microsoft.extensions.fileproviders.embedded.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.identity.core/6.0.0/microsoft.extensions.identity.core.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.identity.stores/6.0.0/microsoft.extensions.identity.stores.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.identitymodel.abstractions/6.29.0/microsoft.identitymodel.abstractions.6.29.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.29.0/microsoft.identitymodel.jsonwebtokens.6.29.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.identitymodel.logging/6.29.0/microsoft.identitymodel.logging.6.29.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.identitymodel.tokens/6.29.0/microsoft.identitymodel.tokens.6.29.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.identitymodel.tokens.jwt/6.29.0/system.identitymodel.tokens.jwt.6.29.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Identity.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
